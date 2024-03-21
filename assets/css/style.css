@@ -5,3 +5,23 @@
     src: url('../fonts/Raleway-VariableFont_wght.woff');
     src: url('../fonts/Raleway-VariableFont_wght.ttf') format('truetype');
 }
+
+header{
+    background-color: #782221;
+}
+
+nav{
+    background-color: #2c1d27;
+}
+
+#left{
+    background-color: #782221;
+}
+
+#right{
+    background-color: #dbc2a4;
+}
+
+footer{
+    background-color: #782221;
+}
