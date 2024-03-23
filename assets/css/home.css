@@ -48,3 +48,11 @@ address a, a:hover, a:visited, a:active {
 h3 + p{
     padding-left: 20px;
 }
+
+address a:hover{
+    text-decoration: underline;
+}  
+
+figure a:hover{
+    cursor: zoom-in;
+}
