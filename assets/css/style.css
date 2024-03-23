@@ -88,3 +88,11 @@ div a + a{
 footer + p{
     margin-bottom: 30px;
 }
+
+div a:hover{
+    opacity: 0.8;
+}
+
+.hover:hover{
+    border-right: 7px solid #782221;
+}
